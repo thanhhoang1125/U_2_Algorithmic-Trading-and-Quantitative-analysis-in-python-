@@ -1,7 +1,6 @@
 """
 extracting data using alpha vantage
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 
 # importing libraries

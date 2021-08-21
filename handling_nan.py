@@ -2,7 +2,6 @@
 """
 handling NaN values
 
-@author: Mayank Rasu (http://rasuquant.com/wp/)
 """
 
 import datetime as dt

@@ -1,8 +1,6 @@
 # ============================================================================
 # Greenblatt's Magic Formula Implementation
-# Author - Mayank Rasu
 
-# Please report bugs/issues in the Q&A section
 # =============================================================================
 
 

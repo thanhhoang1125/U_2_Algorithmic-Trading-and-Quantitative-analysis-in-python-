@@ -1,8 +1,6 @@
 # =============================================================================
 # Automated trading script I - MACD
-# Author : Mayank Rasu
 
-# Please report bug/issues in the Q&A section
 # =============================================================================
 
 import fxcmpy

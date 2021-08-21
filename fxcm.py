@@ -1,8 +1,6 @@
 # =============================================================================
 # FXCM API testing
-# Author : Mayank Rasu
 
-# Please report bug/issues in the Q&A section
 # =============================================================================
 import fxcmpy
 import time
